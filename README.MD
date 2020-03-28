@@ -140,7 +140,7 @@ Building on our previous knowledge, here we see how to create a simple script th
 
 # Futher upcoming work: 🏗
 
-![Coming soon](
+![Coming soon](https://media.giphy.com/media/fnDY3C9MKukcER71r7/giphy.gif)
 
 - Face recognition
 - Real tine face recognition
@@ -151,7 +151,7 @@ Building on our previous knowledge, here we see how to create a simple script th
 
 ## Always grateful 🙏 to [Adrian Rosebrock](https://www.pyimagesearch.com/author/adrian/) for his invaluable help towards my Computer Vision Journey till now and henceforth
 
-
+![Thank You](https://media.giphy.com/media/AeWoyE3ZT90YM/giphy.gif)
 
 # License 📜
 
