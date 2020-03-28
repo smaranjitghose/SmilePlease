@@ -27,9 +27,9 @@ while True:
         cv2.rectangle(img, (x, y), (x+w, y+h), (212, 32, 212), 3)
     # Display
     cv2.imshow('Smile Please 2', img)
-    # Stop if escape key is pressed
+    # Stop if 'q' key is pressed
     k = cv2.waitKey(30) & 0xff
-    if k==27:
+    if k==ord('q'):
         break
 # Release the VideoCapture object
 cap.release()

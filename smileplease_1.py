@@ -28,8 +28,8 @@ for (x, y, w, h) in faces:
 cv2.imshow('Smile Please 1', img)
 # Wait for key presses
 k = cv2.waitKey(0)
-# If Esc is pressed
-if k == 27:
+# If q is pressed
+if key == ord("q"):
     #Path and name of the our image with the face recognized
     cv2.imwrite('output_images/face_recognized_1.png', img)
     #close all the opened windows

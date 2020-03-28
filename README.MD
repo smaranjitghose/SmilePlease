@@ -66,7 +66,7 @@ Here,we create a simple script that takes in an input image and detects faces in
 - Run the script ```smileplease_1.py```
     - Open the Terminal 👩‍💻
     - and type ```python smile_1.py -i <path to your input image>``` 
-- Press ```Esc``` to quit
+- Press ``q``` to quit
 - The result was saved in ```/output_images/face_recognized.png```
 
 #### Results:
@@ -87,14 +87,57 @@ Building on our previous knowledge, here we see how to create a simple script th
 - Run the script ```smileplease_2.py```
     - Open the Terminal 👩‍💻
     - and type ```python smile_2.py -v <path to your input video>``` 
-- Press ```Esc``` to quit
+- Press ```q``` to quit
 
 ###### If you want to see face detection in real time from your  web cam  
 
 - Run the script ```smileplease_2.py```
     - Open the Terminal 👩‍💻
     - and type ```python smile_2.py``` 
-- Press ```Esc``` to quit
+- Press ```q``` to quit
+
+## SmilePlease03:
+
+Here,we create a simple script that takes in an input image and detects faces in it, by using the power deep learning to detect faces more accurately
+
+#### Lets see a demo:
+
+- Put your image inside the directory ```input_images``` or get its path
+- Run the script ```smileplease_3.py```
+    - Open the Terminal 👩‍💻
+    - and type ```python smile_3.py -i <path to your input image>``` 
+- Press ``q``` to quit
+- The result was saved in ```/output_images/face_recognized_3.png```
+
+#### Results:
+
+|Input|Ouput|
+|-----|-----|
+|![Input_1](https://github.com/smaranjitghose/smileplease/blob/master/input_images/smarno.png)|![Output_1](https://github.com/smaranjitghose/smileplease/blob/master/output_images/face_recognized_3.png)
+
+## SmilePlease04:
+
+Building on our previous knowledge, here we see how to create a simple script that detects faces in an input video and even in real time from our web cam
+
+#### Lets see a demo:
+
+###### If you want to see face detection in a given video
+
+- Put your video inside the directory ```input_videos``` or get its path
+- Run the script ```smileplease_4.py```
+    - Open the Terminal 👩‍💻
+    - and type ```python smile_4.py -v <path to your input video>``` 
+- Press ```q``` to quit
+
+###### If you want to see face detection in real time from your  web cam  
+
+- Run the script ```smileplease_4.py```
+    - Open the Terminal 👩‍💻
+    - and type ```python smile_4.py``` 
+- Press ```q``` to quit
+
+
+# Always grateful to [Adrian Rosebrock](https://www.pyimagesearch.com/author/adrian/) for his invaluable help towards my Computer Vision Journey till now and henceforth
 
 # License 📜
 
