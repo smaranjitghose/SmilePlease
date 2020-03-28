@@ -16,7 +16,7 @@ gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 faces = face_cascade.detectMultiScale(gray, 1.1, 4)
 # Draw rectangle around the faces
 for (x, y, w, h) in faces:
-    cv2.rectangle(img, (x, y), (x+w, y+h), (212, 32, 212), 2)
+    cv2.rectangle(img, (x, y), (x+w, y+h), (212, 32, 212),3)
 #Parameters:
 # input image 
 # starting coordinates of the rectangle

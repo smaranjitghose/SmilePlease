@@ -54,12 +54,13 @@ In this series, **SmilePlease** I shall show you some of the ways that you can g
   - type in the terminal
       ```pip install -r requirements.txt```
 
-## SmilePlease101:
+## SmilePlease01:
 
 This is gonna be the ```hello world``` of your face recognition journey
 
-#### Lets see a demo:
+Here,we create a simple script that takes in an input image and detects faces in it
 
+#### Lets see a demo:
 
 - Put your image inside the directory ```input_images``` or get its path
 - Run the script ```smileplease_1.py```
@@ -74,7 +75,26 @@ This is gonna be the ```hello world``` of your face recognition journey
 |-----|-----|
 |![Input_1](https://github.com/smaranjitghose/smileplease/blob/master/input_images/smarno.png)|![Output_1](https://github.com/smaranjitghose/smileplease/blob/master/output_images/face_recognized_1.png)
   
+## SmilePlease02:
 
+Building on our previous knowledge, here we see how to create a simple script that detects faces in an input video and even in real time from our web cam
+
+#### Lets see a demo:
+
+###### If you want to see face detection in a given video
+
+- Put your video inside the directory ```input_videos``` or get its path
+- Run the script ```smileplease_2.py```
+    - Open the Terminal 👩‍💻
+    - and type ```python smile_2.py -v <path to your input video>``` 
+- Press ```Esc``` to quit
+
+###### If you want to see face detection in real time from your  web cam  
+
+- Run the script ```smileplease_2.py```
+    - Open the Terminal 👩‍💻
+    - and type ```python smile_2.py``` 
+- Press ```Esc``` to quit
 
 # License 📜
 
