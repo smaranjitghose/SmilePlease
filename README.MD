@@ -148,5 +148,3 @@ Building on our previous knowledge, here we see how to create a simple script th
 [MIT License](https://github.com/smaranjitghose/SmilePlease/blob/master/LICENSE)
 
 # **Crafted with ❤ by Smaranjit Ghose**
-
-s
