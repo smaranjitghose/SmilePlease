@@ -140,10 +140,10 @@ Building on our previous knowledge, here we see how to create a simple script th
 
 # Futher upcoming work: 🏗
 
-![Coming soon](https://media.giphy.com/media/fnDY3C9MKukcER71r7/giphy.gif)
+![Coming soon](https://media.giphy.com/media/kyLptBNdyMHftuqoNy/giphy.gif)
 
 - Face recognition
-- Real tine face recognition
+- Real time face recognition
 - Face Clustering
 - Facial Landmarks
 - Real time Facial Landmarks
