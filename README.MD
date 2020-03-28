@@ -128,7 +128,7 @@ Building on our previous knowledge, here we see how to create a simple script th
 - Put your video inside the directory ```input_videos``` or get its path
 - Run the script ```smileplease_4.py```
     - Open the Terminal 👩‍💻
-    - and type ```python smile_4.py -v <path to your input video>``` 
+    - and type ```python smileplease_4.py -v <path to your input video>``` 
 - Press ```q``` to quit
 
 ###### If you want to see face detection in real time from your  web cam  
