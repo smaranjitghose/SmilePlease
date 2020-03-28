@@ -108,7 +108,7 @@ Lets take our face detection performance to the next level by leveraging the pow
 - Run the script ```smileplease_3.py```
     - Open the Terminal 👩‍💻
     - and type ```python smile_3.py -i <path to your input image>``` 
-- Press ``q``` to quit
+- Press ```q``` to quit
 - The result was saved in ```/output_images/face_recognized_3.png```
 
 #### Results:
@@ -138,10 +138,20 @@ Building on our previous knowledge, here we see how to create a simple script th
     - and type ```python smile_4.py``` 
 - Press ```q``` to quit
 
+# Futher upcoming work: 🏗
+
+![Coming soon](
+
+- Face recognition
+- Real tine face recognition
+- Face Clustering
+- Facial Landmarks
+- Real time Facial Landmarks
+- Eye Blink Detection
 
 ## Always grateful 🙏 to [Adrian Rosebrock](https://www.pyimagesearch.com/author/adrian/) for his invaluable help towards my Computer Vision Journey till now and henceforth
 
-![Thank You](https://media.giphy.com/media/AeWoyE3ZT90YM/giphy.gif)
+
 
 # License 📜
 
