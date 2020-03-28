@@ -62,18 +62,17 @@ This is gonna be the ```hello world``` of your face recognition journey
 
 
 - Put your image inside the directory ```input_images``` or get its path
--  Move inside 👉 the scripts directory 
-    - Open the Terminal 👩‍💻
-    - and type ```cd scripts```
 - Run the script ```smileplease_1.py```
     - Open the Terminal 👩‍💻
     - and type ```python smile_1.py -i <path to your input image>``` 
+- Press ```Esc``` to quit
+- The result was saved in ```/output_images/face_recognized.png```
 
 #### Results:
 
 |Input|Ouput|
 |-----|-----|
-![]
+|![Input_1](https://github.com/smaranjitghose/smileplease/blob/master/input_images/smarno.png)|![Output_1](https://github.com/smaranjitghose/smileplease/blob/master/output_images/face_recognized_1.png)
   
 
 
