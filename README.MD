@@ -98,7 +98,9 @@ Building on our previous knowledge, here we see how to create a simple script th
 
 ## SmilePlease03:
 
-Here,we create a simple script that takes in an input image and detects faces in it, by using the power deep learning to detect faces more accurately
+Lets take our face detection performance to the next level by leveraging the power of deep learning. 
+
+![improvise](https://media.giphy.com/media/xX7TNbqPUzwXK/giphy.gif)
 
 #### Lets see a demo:
 
@@ -137,7 +139,9 @@ Building on our previous knowledge, here we see how to create a simple script th
 - Press ```q``` to quit
 
 
-# Always grateful to [Adrian Rosebrock](https://www.pyimagesearch.com/author/adrian/) for his invaluable help towards my Computer Vision Journey till now and henceforth
+## Always grateful 🙏 to [Adrian Rosebrock](https://www.pyimagesearch.com/author/adrian/) for his invaluable help towards my Computer Vision Journey till now and henceforth
+
+![Thank You](https://media.giphy.com/media/AeWoyE3ZT90YM/giphy.gif)
 
 # License 📜
 
