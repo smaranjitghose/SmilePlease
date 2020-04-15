@@ -43,7 +43,7 @@ In this series, **SmilePlease** I shall show you some of the ways that you can g
 
 #### Usage: 
 
-![usage](https://media.giphy.com/media/H2SiDhuGVJRWU/giphy.gif)
+![give it](https://media.giphy.com/media/KamhkkcTtvOJ0FCjnB/giphy.gif)
 
 - Make sure you have the lastest version of [Anaconda](https://www.anaconda.com/distribution/) installed on your system and its set to path
 - Clone this repository ⏬
