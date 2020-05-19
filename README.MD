@@ -153,7 +153,7 @@ Building on our previous knowledge, here we see how to create a simple script th
 
 ![Thank You](https://media.giphy.com/media/AeWoyE3ZT90YM/giphy.gif)
 
-# License 📜
+### License 📜
 
 [MIT License](https://github.com/smaranjitghose/SmilePlease/blob/master/LICENSE)
 
